@@ -2,9 +2,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "annualreportsapi", "annualreportsapi\annualreportsapi.csproj", "{9656CC10-647C-47D8-8218-A0E3F593BCB1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "annualreportsapi", "AnnualReportsAPI\AnnualReportsAPI.csproj", "{9656CC10-647C-47D8-8218-A0E3F593BCB1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "annualreportslib", "annualreportslib\annualreportslib.csproj", "{601645FC-85A2-48FD-9755-D4AA658BA460}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "annualreportslib", "AnnualReportsLib\AnnualReportsLib.csproj", "{601645FC-85A2-48FD-9755-D4AA658BA460}"
 EndProject
 Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{355A9FAC-EB62-4619-A309-D419DACC6AB0}"
 EndProject
