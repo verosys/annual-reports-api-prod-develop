@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  annualreportsapi:
+    image: annualreportsapi
+    build:
+      context: ./annualreportsapi
+      dockerfile: Dockerfile

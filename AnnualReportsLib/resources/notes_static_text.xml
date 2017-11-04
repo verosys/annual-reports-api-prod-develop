@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Document>
+	<Sections>
+		<Section>
+			<Title>II. OSNOVE SASTAVLJANJA FINANCIJSKIH IZVJEŠTAJA </Title>
+			<Paragraph>
+				<Text>Financijski izvještaji Društva sastavljeni su sukladno Hrvatskim standardima financijskog izvještavanja koje je donio Odbor za standarde financijskog izvještavanja na temelju odredbi Zakona o računovodstvu.</Text>
+			</Paragraph>
+			<Paragraph>
+				<Text>Na financijske izvještaje u {godina}. godini primjenjuju se odredbe važećeg Zakona o računovodstvu te Hrvatskih računovodstvenih standarda. Financijski izvještaji sastavljeni su na osnovi povijesnog troška, a detaljnija određenja dana su uz pojedine pozicije izvještaja. </Text>
+			</Paragraph>
+			<Paragraph>
+				<Text>Financijski izvještaji prezentiraju istinito i fer financijski položaj, financijsku uspješnost i novčane tijekove poduzetnika. Vjerno su predočeni učinci transakcija i drugih poslovnih događaja, a u skladu s kriterijima priznavanja imovine, obveza, kapitala, prihoda i rashoda. </Text>
+			</Paragraph>
+		</Section>
+		<Section>
+			<Title>III. SAŽETAK ZNAČAJNIJIH RAČUNOVODSTVENIH POLITIKA</Title>
+			<Paragraph>
+				<Text>Slijedi prikaz značajnijih računovodstvenih politika usvojenih za pripremu ovih financijskih izvještaja. Ove računovodstvene politike dosljedno su primjenjivane za sva razdoblja uključena u ove izvještaje osim tamo gdje je drugačije navedeno. </Text>
+			</Paragraph>
+			<Paragraph>
+				<Text>Budući događaji i njihov utjecaj nisu predvidivi sa sigurnošću i sukladno tome računovodstvene procjene zahtijevaju prosudbu, a one korištene pri izradi financijskih izvještaja podložne su promjenama nastankom novih događaja, dobivanjem dodatnih informacija i promjenom okruženja u kojem društvo posluje što može rezultirati odstupanjima od izvršenih procjena.</Text>
+			</Paragraph>
+			<Paragraph>
+				<Title>Dugotrajna nematerijalna imovina</Title>
+				<Text>Nematerijalnu imovinu čine ulaganja na tuđim sredstvima i ulaganja u računalne programe.</Text>
+			</Paragraph>
+			<Paragraph>
+				<Text>Amortizira se tijekom korisnog vijeka trajanja od 4 godine linearnom metodom (stopa 25%). </Text>
+			</Paragraph>
+			<Paragraph>
+				<Text>Amortizacijska stopa može se uvećati, sukladno odredbama Zakona o porezu na dobit, na temelju odluke uprave društva. Priznavanje, mjerenje i prestanak priznavanja obavlja se u skladu s odredbama HSFI 5.</Text>
+			</Paragraph>
+			<Paragraph>
+				<Title>Dugotrajna materijalna imovina</Title>
+				<Text>Dugotrajna materijalna imovina obuhvaća sredstva koja Društvo koristi pri isporuci roba i usluga te u administrativne svrhe i čiji je procijenjeni vijek upotrebe duži od godine dana. Ova imovina početno se priznaje u bilanci po trošku nabave koji obuhvaća neto kupovnu cijenu i sve druge ovisne troškove do stavljanja sredstva u upotrebu. Nakon početnog priznavanja dugotrajna imovina se mjeri po trošku nabave umanjenom za ispravak vrijednosti i akumulirane gubitke od umanjenja sukladno HSFI 6. </Text>
+			</Paragraph>
+			<Paragraph>
+				<Text>Amortizacija dugotrajne materijalne imovine obračunava se primjenom linearne metode u procijenjenom vijeku upotrebe svakog pojedinog sredstva primjenom sljedećih stopa:</Text>
+			</Paragraph>
+			<Table Columns="2" Widths="4,1">
+				<Row>
+					<Entry>Građevinski objekti</Entry>
+					<Entry>5 %</Entry>
+				</Row>
+				<Row>
+					<Entry>Brodovi veći od 1000 BRT</Entry>
+					<Entry>5 %</Entry>
+				</Row>
+				<Row>
+					<Entry>Osobni automobili</Entry>
+					<Entry>20 %</Entry>
+				</Row>
+				<Row>
+					<Entry>Osnovno stado</Entry>
+					<Entry>20 %</Entry>
+				</Row>
+				<Row>
+					<Entry>Oprema</Entry>
+					<Entry>25 %</Entry>
+				</Row>
+				<Row>
+					<Entry>Dostavna vozila</Entry>
+					<Entry>25 %</Entry>
+				</Row>
+				<Row>
+					<Entry>Mehanička oprema</Entry>
+					<Entry>25 %</Entry>
+				</Row>
+				<Row>
+					<Entry>Računalna oprema</Entry>
+					<Entry>50 %</Entry>
+				</Row>
+				<Row>
+					<Entry>Telekomunikacijska oprema</Entry>
+					<Entry>50 %</Entry>
+				</Row>
+				<Row>
+					<Entry>Software</Entry>
+					<Entry>50 %</Entry>
+				</Row>
+				<Row>
+					<Entry>Ostala nespomenuta imovina</Entry>
+					<Entry>10 %</Entry>
+				</Row>
+			</Table>
+			<Paragraph>
+				<Text>Ako Društvo donese odluku, primjenjuju se uvećane amortizacijske stope sukladno odredbama Zakona o porezu na dobit.</Text>
+			</Paragraph>
+			<Paragraph>
+				<Text>Zemljište i druga imovina koja ima neograničen vijek trajanja (umjetnički radovi i sl.) te imovina u pripremi se ne amortizira. </Text>
+			</Paragraph>
+			<Paragraph>
+				<Text>Naknadni izdaci uključuju se u knjigovodstvenu vrijednost imovine ili se prema potrebi priznaju kao zasebna imovina samo ako će Društvo imati buduće ekonomske koristi od imovine te ako se trošak nabave može pouzdano mjeriti. </Text>
+			</Paragraph>
+			<Paragraph>
+				<Text>Knjigovodstvena vrijednost zamijenjenog dijela prestaje se priznavati. Svi ostali troškovi investicijskog i tekućeg održavanja terete račun dobitka i gubitka u razdoblju u kojem su nastali. Amortizacija se obračunava primjenom linearne metode. </Text>
+			</Paragraph>
+			<Paragraph>
+				<Text>Dobici ili gubici od prestanka priznavanja dugotrajne materijalne imovine (prodaja, rashodovanje i sl.) utvrđuju se kao razlika ostvarene prodajne cijene i knjigovodstvene vrijednosti i uključuju u stavku poslovni prihodi odnosno poslovni rashodi u računu dobiti u gubitka.</Text>
+			</Paragraph>
+			<Paragraph>
+				<Title>Biološka imovina</Title>
+				<Text>Biološka imovina i poljoprivredni proizvodi mjere se prema fer vrijednosti. Priznavanje, mjerenje i prestanak priznavanja vrše se prema odredbama HSFI 17. </Text>
+			</Paragraph>
+			<Paragraph>
+				<Text>Ako se fer vrijednost ne može pouzdano izmjeriti, biološka imovina mjeri se po trošku nabave umanjene za ispravak vrijednosti i za gubitke od umanjenja vrijednosti sukladno HSFI 6.</Text>
+			</Paragraph>
+			<Paragraph>
+				<Title>Ulaganja u nekretnine</Title>
+				<Text>Nekretnine (zemljište ili zgrada, ili dio zgrade, ili oboje) koje društvo drži radi ostvarivanja prihoda od najma ili radi porasta tržišne vrijednosti tretira se kao ulaganje u nekretnine sukladno HSFI 7. Prilikom utvrđivanja vrijednosti ulaganja u nekretnine primjenjuje se model troška nabave.</Text>
+			</Paragraph>
+			<Paragraph>
+				<Title>Dugotrajna imovina namijenjena prodaji</Title>
+				<Text>Dugotrajna imovina namijenjena prodaji je imovina čija će se knjigovodstvena vrijednost nadoknaditi putem prodaje, a ne putem korištenja pod uvjetom da je ta prodaja vrlo vjerojatna unutar perioda od jedne godine. Priznavanje i mjerenje obavlja se u skladu s odredbama HSFI 8.</Text>
+			</Paragraph>
+			<Paragraph>
+				<Title>Financijska imovina</Title>
+				<Text>Financijska imovina obuhvaća dionice i udjele, dane zajmove, sudjelujuće interese, ulaganja u vrijednosne papire, dane kredite, depozite i jamstvene pologe te ostalu financijsku imovinu. Financijska imovina se ne amortizira. Priznavanje, mjerenje i prestanak priznavanja obavlja se u skladu s odredbama HSFI 9.9.</Text>
+			</Paragraph>
+			<Paragraph>
+				<Title>Zalihe</Title>
+				<Text>Zalihe obuhvaćaju zalihe sitnog inventara, auto guma, ambalaže i trgovačke robe. Mjere se po trošku nabave ili neto utrživoj vrijednosti, u skladu s HSFI 10. Obračun utroška zaliha provodi se po metodi prosječne ponderirane cijene.</Text>
+			</Paragraph>
+			<Paragraph>
+				<Text>Knjigovodstveni iznos zaliha priznaje se kao rashod razdoblja u kojem su te zalihe prodane ili izuzete. Zalihe sitnog inventara i auto guma otpisuju se prilikom stavljanja u upotrebu u 100%-tnom iznosu.</Text>
+			</Paragraph>
+			<Paragraph>
+				<Title>Potraživanja</Title>
+				<Text>Potraživanja se početno mjere po fer vrijednosti. Priznavanje, mjerenje i prestanak priznavanja obavlja se prema odredbama HSFI 11. Ispravak vrijednosti potraživanja provodi se kada postoje objektivni dokazi da društvo neće moći naplatiti sva svoja potraživanja u skladu s dogovorenim uvjetima. </Text>
+			</Paragraph>
+			<Paragraph>
+				<Text>Značajne financijske poteškoće dužnika, vjerojatnost dužnikovog stečaja te neizvršenje ili propusti u plaćanjima smatraju se pokazateljima umanjenja vrijednosti potraživanja od kupaca. Iznos ispravka vrijednosti utvrđuje se kao razlika između knjigovodstvene vrijednosti i nadoknadivog iznosa potraživanja.</Text>
+			</Paragraph>
+			<Paragraph>
+				<Text>Knjigovodstvena vrijednost imovine je smanjena korištenjem izračuna rezerviranja za umanjenjem vrijednosti te je iznos gubitka priznat u računu dobiti i gubitka u „vrijednosnim usklađivanjima“. Kada potraživanje nije naplativo otpisuje se na teret izračuna rezerviranja za potraživanja od kupaca.</Text>
+			</Paragraph>
+			<Paragraph>
+				<Title>Kapital i rezerve</Title>
+				<Text>Kapital se sastoji od upisanog kapitala, kapitalnih rezervi, rezervi iz dobiti, revalorizacijskih rezervi, rezervi fer vrijednosti, zadržane dobiti ili prenesenog gubitka, dobiti ili gubitka tekuće godine i manjinskih (nekontrolirajućih) interesa. Priznavanje, mjerenje i prestanak priznavanja obavlja se prema odredbama HSFI 12.</Text>
+			</Paragraph>
+			<Paragraph>
+				<Title>Obveze</Title>
+				<Text>Obveze se početno mjere po fer vrijednosti. Priznavanje, mjerenje i prestanak priznavanja obavlja se prema odredbama HSFI 13. </Text>
+			</Paragraph>
+			<Paragraph>
+				<Text>Obveze se klasificiraju kao kratkotrajne i dugotrajne. </Text>
+			</Paragraph>
+			<Paragraph>
+				<Text>Obveze se klasificiraju kao kratkoročne obveze, osim ako Društvo ima pravo odgoditi podmirenje obveze na rok duži od 12 mjeseci. </Text>
+			</Paragraph>
+			<Paragraph>
+				<Text>Obveze se priznaju kada je vjerojatno da će zbog podmirenja sadašnje obveze doći do odlijevanja resursa poduzetnika. Obveze prema dobavljačima i zaposlenima te obveze za predujmove mjere se po iznosu kojim će se podmiriti.</Text>
+			</Paragraph>
+			<Paragraph>
+				<Title>Rezerviranja</Title>
+				<Text>Rezerviranje je obveza čija je priroda jasno određena i za koju je na datum bilance vjerojatno ili sigurno da će nastati, ali postoji neizvjesnost u pogledu iznosa ili datuma kada će nastati. Priznavanje i mjerenje se provodi u skladu s HSFI 13.</Text>
+			</Paragraph>
+			<Paragraph>
+				<Title>Vremenska razgraničenja</Title>
+				<Text>Vremenska razgraničenja obuhvaćaju unaprijed plaćene troškove, nedospjelu naplatu prihoda, odgođeno plaćanje troškova i prihod budućeg razdoblja. Vremenska razgraničenja mjere se sukladno HSFI 14. </Text>
+			</Paragraph>
+			<Paragraph>
+				<Text>Unaprijed plaćeni troškovi priznaju se kao imovina kada se odnose na iznose plaćene u tekućem razdoblju, a koji se odnose na buduća razdoblja. Odgođeno plaćanje troškova priznaje se kao obveza kada se odnosi na troškove nastale u tekućem razdoblju, a za koje nisu ispunjeni uvjeti za priznavanje obveza.</Text>
+			</Paragraph>
+			<Paragraph>
+				<Title>Tekući porez na dobit</Title>
+				<Text>Iznos poreza na dobit za tekuću godinu obračunava se na temelju poreznog zakona koji je na snazi u Republici Hrvatskoj na dan bilance. </Text>
+			</Paragraph>
+			<Paragraph>
+				<Text>Tekući porez knjižit će se na teret kapitala ako se porez odnosi na stavke koje se direktno knjiže na teret kapitala u istom razdoblju.</Text>
+			</Paragraph>
+			<Paragraph>
+				<Title>Porez na dodanu vrijednost</Title>
+				<Text>Porezni propisi zahtijevaju bilježenje PDV-a na neto osnovi. PDV koji proizlazi iz transakcija prodaje i kupnje priznaje se i iskazuje u bilanci na neto osnovi.</Text>
+			</Paragraph>
+			<Paragraph>
+				<Title>Odgođena porezna imovina</Title>
+				<Text>Odgođena porezna imovina i obveze mjere se primjenom poreznih stopa (i poreznih zakona) koji su na snazi na datum bilance. </Text>
+			</Paragraph>
+			<Paragraph>
+				<Text>Odgođena porezna imovina se priznaje za prenesene neiskorištene porezne gubitke, neiskorištene porezne olakšice i sve odbitne privremene razlike u visini za koju je vjerojatno da će oporeziva dobit biti raspoloživa i za koju se preneseni porezni gubitak, neiskorištene porezne olakšice i odbitne privremene razlike mogu iskoristiti, sukladno odredbama HSFI 14.</Text>
+			</Paragraph>
+			<Paragraph>
+				<Title>Prihodi</Title>
+				<Text>Prihodi se priznaju kada je vjerojatno da će buduće ekonomske koristi ulaziti kod poduzetnika i kada se mogu pouzdano mjeriti. </Text>
+			</Paragraph>
+			<Paragraph>
+				<Text>Priznavanje, mjerenje i prestanak priznavanja obavlja se prema odredbama HSFI 15. Prihodi po HSFI 15 podijeljeni su na poslovne prihode i financijske prihode.</Text>
+			</Paragraph>
+			<Paragraph>
+				<Text>Prihodi se sastoje od fer vrijednosti primljene naknade ili potraživanja za prodane usluge tijekom redovnog poslovanja društva.</Text>
+			</Paragraph>
+			<Paragraph>
+				<Text>Prihodi su iskazani u iznosima koji su umanjeni za porez na dodanu vrijednost. Društvo priznaje prihode kada se iznos prihoda može pouzdano mjeriti i kada je izvjesno da će društvo imati buduće ekonomske koristi.</Text>
+			</Paragraph>
+			<Paragraph>
+				<Title>Rashodi</Title>
+				<Text>Rashodi se priznaju kada smanjenje budućih ekonomskih koristi proizlazi iz smanjenja imovine ili povećanja obaveza koje se može pouzdano izmjeriti, odnosno kada isti nastaju istodobno s priznavanjem ili smanjenjem imovine, a na temelju izravne povezanosti između nastalih troškova i određenih prihoda. </Text>
+			</Paragraph>
+			<Paragraph>
+				<Text>Priznavanje, mjerenje i prestanak priznavanja obavlja se prema odredbama HSFI 16.</Text>
+			</Paragraph>
+			<Paragraph>
+				<Title>Vrijednosti iskazane u financijskim izvještajima (iznosi)</Title>
+				<Text>Stavke uključene u financijske izvještaje društva iskazane su u valuti primarnog gospodarskog okruženja u kojem društvo posluje (funkcionalna valuta).</Text>
+			</Paragraph>
+			<Paragraph>
+				<Text>Financijski izvještaji prikazani su u hrvatskim kunama, što predstavlja funkcionalnu i izvještajnu valutu Društva.</Text>
+			</Paragraph>
+		</Section>
+		<Section>
+			<Title>IV. PODUZETNICI UNUTAR GRUPE I OSOBE SA SUDJELUJUĆIM INTERESIMA</Title>
+			<Paragraph>
+				<Text>Poduzetnicima unutar grupe smatraju se dva ili više poduzetnika koji su međusobno vlasnički povezana, a koji imaju ulaganje u udjele/dionice više od 50 % ili su taj kapital primili (ovisna društva).</Text>
+			</Paragraph>
+			<Paragraph>
+				<Text>Društva povezana sudjelujućim interesom su društva čiji udio u kapitalu nekog drugog poduzetnika iznosi od 20-50% ili društva koja su kapital do te visine primila od drugog poduzetnika (sudjelujući interesi).</Text>
+			</Paragraph>
+		</Section>
+	</Sections>
+</Document>

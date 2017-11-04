@@ -1,0 +1,50 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Model\" />
+    <Folder Include="Charting\" />
+    <Folder Include="Document\" />
+    <Folder Include="Docx\" />
+    <Folder Include="Pdf\" />
+    <Folder Include="Reader\" />
+    <Folder Include="Utils\" />
+    <Folder Include="resources\" />
+    <Folder Include="resources\fonts\" />
+    <Folder Include="Exceptions\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="ExcelDataReader" Version="3.2.0" />
+    <PackageReference Include="iTextSharp.LGPLv2.Core" Version="1.3.2" />
+    <PackageReference Include="System.Text.Encoding.CodePages" Version="4.4.0" />
+    <PackageReference Include="runtime.osx.10.10-x64.CoreCompat.System.Drawing" Version="5.4.0-r8" />
+    <PackageReference Include="DocumentFormat.OpenXml" Version="2.7.2" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="resources\fonts\FreeSerif.otf" />
+    <None Remove="resources\fonts\FreeSerifBold.otf" />
+    <None Remove="Charting\fonts\FreeSerifBold.otf" />
+    <None Remove="Charting\fonts\FreeSerif.otf" />
+    <None Remove="resources\empty.docx" />
+    <None Remove="resources\notes_static_text.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="resources\fonts\FreeSerif.otf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="resources\fonts\FreeSerifBold.otf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Charting\fonts\FreeSerifBold.otf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Charting\fonts\FreeSerif.otf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="resources\empty.docx" />
+    <EmbeddedResource Include="resources\notes_static_text.xml" />
+  </ItemGroup>
+</Project>
